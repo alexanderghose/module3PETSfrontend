@@ -1,9 +1,9 @@
 # installation
 
-clone the repo
-cd into the folder
-npm i
-add the .env file (ask a classmate or watch the recording)
+1. clone the repo
+1. cd into the folder
+1. npm i
+1. add the .env file (ask a classmate or watch the recording)
 
 # React + Vite
 
